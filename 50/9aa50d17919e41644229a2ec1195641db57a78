@@ -1,0 +1,240 @@
+tests/rfc/test_pi_agent.py
+  s_48493973e5f94d::t_51768d5e13a999 112
+  s_544494a0bee7ff::t_b8bf216b831414 56,113
+  s_59eac7fda3866d::t_2cee21b01db86d 120-147
+  s_48493973e5f94d::t_6188827ffe9e91 47-52
+  s_86590d69ef3837::t_06e285442d4494 1-46,53-55,58-111,114-119,148-173
+  s_544494a0bee7ff::t_4d8da2ac994874 57
+docs/OBSERVABILITY.md
+  s_a8ae7ff7026d93::t_5acccf3949d79a 96-101
+  s_86590d69ef3837::t_1a5ccbba831f9c 115,118,120-122
+  s_86590d69ef3837::t_db9ae065bd0d84 92-93
+  s_86590d69ef3837::t_002891e8ca2667 19,79-87,94-95,102-114,119,127-131
+  s_59eac7fda3866d::t_2e62d217658001 88-91,116-117,123-126
+  s_193443a427f2d3::t_0763a1bd25b4cd 132,186-188,221-222
+tests/rfc/test_scope_main.py
+  s_48493973e5f94d::t_ad947cd4dbc3cb 128-135
+config.example.json
+  s_86590d69ef3837::t_848c3771c7ef29 78,81-87
+  s_86590d69ef3837::t_94079600269509 14-15
+tests/rfc/test_scope_discovery.py
+  s_59eac7fda3866d::t_53ac1f5448a9b1 17,48-50
+  s_544494a0bee7ff::t_585a73c785fef7 112-113,115-116,124
+  s_544494a0bee7ff::t_ba3f4313b4f4bb 39,79-80,82-83,85
+  s_544494a0bee7ff::t_7a540d863b27b7 86
+tests/rfc/test_agent_stream_metrics.py
+  s_59eac7fda3866d::t_5a6ff60f903547 1-28,32-91
+  s_48493973e5f94d::t_6188827ffe9e91 29-31
+  s_48493973e5f94d::t_3e25d2bf461d2f 92-108
+docs/harness/BENCHMARKS.md
+  s_544494a0bee7ff::t_0f9d5423a7c11e 26
+tests/rfc/test_atlassian_axon.py
+  s_86590d69ef3837::t_1d9275cca50bea 50,68,162
+tests/rfc/test_axon_agent.py
+  s_86590d69ef3837::t_28356c1bf0dfc5 124
+  s_544494a0bee7ff::t_378e9a21761e95 121
+  s_544494a0bee7ff::t_3a6d8c298e9d76 122-123
+tests/rfc/test_llm_metrics.py
+  s_86590d69ef3837::t_e2822b4b88edb7 337-338
+  s_86590d69ef3837::t_25f9401456d8c4 1-7,9-33,35-57,59-60,63-95,266-296,299-313,315-321,324-336,339-352,355-371,373
+  s_86590d69ef3837::t_69695ddcc11e89 61-62,96-97,256-265
+  s_a8ae7ff7026d93::t_a083490047f46b 98-207,314,322-323,353-354,372
+  s_48493973e5f94d::t_dd0bae10a7f1fe 419,437
+  s_59eac7fda3866d::t_a0eb17392245ff 8,208-255,297-298,374-418,420-436
+  s_86590d69ef3837::t_63b6c828f9f0aa 34,58
+tests/infra/test_config.py
+  s_544494a0bee7ff::t_d0c68868535d04 38-44
+tests/infra/test_obs.py
+  s_193443a427f2d3::t_28fc887eb1f4a5 75-77,438,617,1184
+src/rfc_agent/obs.py
+  s_193443a427f2d3::t_c5b09eba582460 8-13
+  s_193443a427f2d3::t_772bfe84ef91e8 435-436
+  s_193443a427f2d3::t_02c8d05312cb8f 1275-1278
+src/rfc_agent/axon_agent.py
+  s_544494a0bee7ff::t_cd283d5feea37b 537
+  s_86590d69ef3837::t_eeaaeb1b24c13d 334,397,402,404-405,421-422,428,481-482
+  s_48493973e5f94d::t_49571a43dceda2 393-394
+  s_86590d69ef3837::t_5bf4d39c0ca367 5
+  s_48493973e5f94d::t_eae1f5a00ca2d1 134-137,140
+  s_86590d69ef3837::t_61832a352879b0 398-399
+  s_59eac7fda3866d::t_cc5dd178937759 91-95,445,453-456
+  s_86590d69ef3837::t_9bf0e3c2c25a70 1,48,129-133,139,144,148-149,185-187,204,263,283-286,302,317-326,331-333,338-341,364,379,382-383,391,395-396,420,457,506,511,520
+  s_48493973e5f94d::t_8ae9d7c194548b 392
+tests/infra/test_privacy.py
+  s_193443a427f2d3::t_a3f1c53f17437a 111-139,141-142
+  s_48493973e5f94d::t_7f48a131ba3e3a 5
+  s_48493973e5f94d::t_6188827ffe9e91 140,143-153
+tests/rfc/test_observe.py
+  s_48493973e5f94d::t_f355b6b0c0d500 428
+  s_59eac7fda3866d::t_2e5f42034bdfa0 7,837-838
+  s_86590d69ef3837::t_40a10d13b99e87 689-710,717-718
+  s_48493973e5f94d::t_6188827ffe9e91 721-769
+  s_86590d69ef3837::t_fc97d75831a31c 657-658
+  s_59eac7fda3866d::t_d20d035f5dd7ba 801-802
+  s_193443a427f2d3::t_28fc887eb1f4a5 231-233
+  s_86590d69ef3837::t_ec0f2edc53a1e7 652-656,659-669,671-677
+  s_86590d69ef3837::t_18ceccb576a9c7 670
+  s_59eac7fda3866d::t_917f10df1d190c 678-688,711-716,719-720,770-800,803-836
+src/rfc_agent/scope/cli.py
+  s_48493973e5f94d::t_51768d5e13a999 126-129,136,226-230
+  s_59eac7fda3866d::t_b7b54b5145be0c 132-135,137
+docs/AXON.md
+  s_544494a0bee7ff::t_48ffa064284e0d 134
+  s_86590d69ef3837::t_a6c9683bdd45de 127
+tests/rfc/test_mine_reasons.py
+  s_193443a427f2d3::t_a3f1c53f17437a 2,5,7,83-140
+src/rfc_agent/investigate/agent.py
+  s_48493973e5f94d::t_49571a43dceda2 218-219
+  s_48493973e5f94d::t_880d70acdfd697 21,375-376
+  s_86590d69ef3837::t_01b74cabd0200c 30,176,220-221,223,225-226,248-249,255
+  s_59eac7fda3866d::t_e4677869892625 301,327-328,330,333-336,364-372,377
+  s_86590d69ef3837::t_dae292503dfe2d 145-146,150
+  s_48493973e5f94d::t_82782f5d0a29c5 373-374,381
+  s_86590d69ef3837::t_0535de2622e60e 141-142
+  s_48493973e5f94d::t_7b336ae297fa17 382-383
+docs/PI.md
+  s_86590d69ef3837::t_8464bdd5ec5066 1-15,18-29
+  s_48493973e5f94d::t_bada158e94f0b6 16-17
+src/harness/engines/axon.py
+  s_544494a0bee7ff::t_4ddd4574a5e3c2 70
+  s_86590d69ef3837::t_d5f22744ab81dd 38,44
+src/rfc_agent/scope/atlassian.py
+  s_544494a0bee7ff::t_333cab9ec994b1 30
+scripts/mine_reasons.py
+  s_193443a427f2d3::t_eb17d23a3c6e2e 44-82,93,95-96,98-100,105-106
+  s_193443a427f2d3::t_3f7d571acd7379 194-196,199-201,205-206
+  s_193443a427f2d3::t_f7f910ef3d9dfc 28,32
+  s_193443a427f2d3::t_d8bb37049e7bd2 12,107-108
+src/rfc_agent/scope/context.py
+  s_86590d69ef3837::t_1ffff47b06013d 253
+  s_544494a0bee7ff::t_9192abf971773d 38
+  s_59eac7fda3866d::t_545a7505f775fa 18
+  s_544494a0bee7ff::t_43890a411a9773 40
+  s_86590d69ef3837::t_89ef943e479d4a 143,197,210-211,229,242,375
+  s_86590d69ef3837::t_c8427cfe9d21bb 31,137,181-183,247,254,256,258-271,279,305,314,316-319,321,326,376,411-413
+  s_48493973e5f94d::t_66a25ce6759cfa 161
+  s_48493973e5f94d::t_ce5830716f46ff 22,126,175-177,180,187,190-196,198-209,231-232,234-240,306-313,315,322,379-381,385-393,410
+  s_86590d69ef3837::t_aba1206877a2a4 220
+  s_59eac7fda3866d::t_77d375e7a9bb9d 25,117,127,145,148,212-215,219,227,248,255,293-294,297-301,360,377,382-384,465,467-468
+docs/SCOPE.md
+  s_544494a0bee7ff::t_2f1514ef4f5277 67,106,392,409,411,415-416
+  s_544494a0bee7ff::t_36ddd7f11ca6cd 391
+  s_544494a0bee7ff::t_c73df6adafabc1 417
+tests/infra/test_langfuse_v5.py
+  s_193443a427f2d3::t_a3f1c53f17437a 1-56
+src/rfc_agent/run.py
+  s_86590d69ef3837::t_655f733f7bc117 121
+src/rfc_agent/llm_metrics.py
+  s_86590d69ef3837::t_de8b784bfbc3f8 1-13,15,17,19-22,24-25,28-33,35-45,52-64,66-69,71-78,81-94,101-110,113-120,122-127,130-134,137-138,142-143,148-150,154-161,163-185,188-195,198-202,206-211,217-218,226-237,240-251
+  s_86590d69ef3837::t_604a7575be2e48 23,26-27
+  s_86590d69ef3837::t_24ce89d8e8e3b4 34,196-197,212
+  s_86590d69ef3837::t_8a1572a1b09212 238-239
+  s_59eac7fda3866d::t_b92cf3d0dfced1 14,16,18,46-51,151-153,162
+  s_a8ae7ff7026d93::t_463dcd181a4dbe 65,70,79-80,95-100,121,128-129,139-141,144-147,213-216
+  s_86590d69ef3837::t_26b5e050d7ed37 111-112,186-187,203-205
+  s_86590d69ef3837::t_afa6b194bb50cc 135-136,219-225
+src/rfc_agent/config.py
+  s_86590d69ef3837::t_25df8a185d4b58 53
+bench/suites/engine_pong.py
+  s_544494a0bee7ff::t_d6b873cc5ff270 5,23
+decisions.md
+  s_86590d69ef3837::t_64b02b18e62f63 67-72
+src/rfc_agent/privacy.py
+  s_193443a427f2d3::t_ea9a2f59fc4e7a 112-113,121-144,147-156,169
+  s_48493973e5f94d::t_eae1f5a00ca2d1 114-120,145-146
+  s_193443a427f2d3::t_a6176dd818e26e 25
+tests/harness/test_engine_axon.py
+  s_544494a0bee7ff::t_34813c30241c59 35
+  s_86590d69ef3837::t_3eeb6fdbb2bd84 42
+  s_544494a0bee7ff::t_be7128e065fc70 36,39-41
+src/rfc_agent/hooks_canary.py
+  s_544494a0bee7ff::t_52340dc62f77e0 36
+src/rfc_agent/memory.py
+  s_544494a0bee7ff::t_f7c805a8dd99b2 108-109,111
+  s_544494a0bee7ff::t_6c6edd1a514ee3 110
+config.harness.json
+  s_544494a0bee7ff::t_29fef17c34d746 5
+  s_86590d69ef3837::t_cfb7ab69cab106 19-20
+tests/infra/test_hooks_canary.py
+  s_544494a0bee7ff::t_fca2f3a1bd7df1 36
+src/rfc_agent/observe.py
+  s_86590d69ef3837::t_084aabf205a807 60,496,530,547,613,616-618,622-633,636,638,640-644,687-691,702-706
+  s_86590d69ef3837::t_127bc21280a554 403-407
+  s_193443a427f2d3::t_ed0908692dbe8a 425,499
+  s_48493973e5f94d::t_3b007424e50ac3 359-374,399-401,561-563
+  s_48493973e5f94d::t_49571a43dceda2 402
+  s_86590d69ef3837::t_83a9256cc80808 715-716,725,727-728,731,734,750
+  s_86590d69ef3837::t_030d40cdb626c3 682-684
+  s_59eac7fda3866d::t_077d2480019893 39,271-272,275-282,619,634-635,637,639,692-701
+tests/rfc/test_scope.py
+  s_544494a0bee7ff::t_47c0b7d76ea503 353
+  s_544494a0bee7ff::t_435735dde318b0 349-352,354-357
+tests/infra/test_resume.py
+  s_544494a0bee7ff::t_3e12dcada30347 182,207
+  s_544494a0bee7ff::t_ff7d913e977925 181
+docs/harness/ENGINES.md
+  s_544494a0bee7ff::t_c957085cfba559 45
+  s_86590d69ef3837::t_f3e66bd6a2faf9 289
+CHANGELOG.md
+  s_193443a427f2d3::t_2771c41ba404a0 25-34
+pyproject.toml
+  s_193443a427f2d3::t_3e93c1d3d917a5 8
+uv.lock
+  s_193443a427f2d3::t_653ae40fcb4356 2,163,173,176,178,446
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "509aa50d17919e41644229a2ec1195641db57a78",
+  "prompts": {},
+  "sessions": {
+    "s_193443a427f2d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5c3cadcc-9aaa-4b6d-bcbd-afcafe64511a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vaibhav Meena <vaibhav.meena@1mg.com>"
+    },
+    "s_48493973e5f94d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0eee949-f5f8-4faa-93a6-5f7e6ab0804f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vaibhav Meena <vaibhav.meena@1mg.com>"
+    },
+    "s_544494a0bee7ff": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c118-009a-7287-87b8-2868edf12df1",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Vaibhav Meena <vaibhav.meena@1mg.com>"
+    },
+    "s_59eac7fda3866d": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c184-f0f8-71bc-86e4-0f7b69c50b7a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Vaibhav Meena <vaibhav.meena@1mg.com>"
+    },
+    "s_86590d69ef3837": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c00f-f2fc-76c3-b4ee-f3e87d756fb9",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Vaibhav Meena <vaibhav.meena@1mg.com>"
+    },
+    "s_a8ae7ff7026d93": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1c130-89d0-71d8-bb31-8e9948968323",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Vaibhav Meena <vaibhav.meena@1mg.com>"
+    }
+  }
+}
